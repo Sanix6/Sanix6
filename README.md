@@ -1,43 +1,78 @@
-👋 Привет, я Кылычбеков Санжарбек
+# Hi, I'm Sanzharbek 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+## Python Backend Engineer
 
-#Обо мне
-Я занимаюсь бэкенд-разработкой с использованием Python и Django. 
-У меня есть опыт создания надёжных и масштабируемых веб-приложений с помощью Django и Django REST Framework.
-Постоянно изучаю новые инструменты и технологии для улучшения своих навыков разработки.
+Backend engineer focused on building scalable, production-ready applications using Python and Django.
 
-💼 Технологии, с которыми я работаю
-- Бэкенд: Python, Django, Django REST Framework
-- Системы контроля версий:** Git, GitHub, GitLab
-- Другие: Docker, Postman, PostgreSQL, Redis, NGINX, SQLite
+I enjoy designing backend architectures, developing REST APIs, integrating third-party services and solving complex business problems.
 
-🛠️ Используемые технологии за последний год
-- **API Документация и тестирование:** Postman, Swagger
-- **Контейнеризация:** Docker, Docker Compose
-- **Базы данных:** PostgreSQL, SQLite, Redis
-- **Серверное администрирование:** NGINX, Gunicorn
-- **Фронтенд (базовый уровень):** HTML, CSS
-- **Интеграции и платежные шлюзы:** 
+My commercial experience includes:
 
-Открыт для сотрудничества
-- Проекты на DRF
-- Разработка бэкенда на Python
-- Разработка и интеграция API
+- FinTech & Cryptocurrency Exchange
+- Taxi & Delivery Platforms
+- Airline Booking Systems
+- Payment Integrations
+- Real-time Applications
+- Enterprise HelpDesk Systems
 
-📫 Как со мной связаться
-Свяжитесь со мной по instagram:https://www.instagram.com/ky1ychbekoww17/
+---
 
+## Tech Stack
 
+### Backend
 
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+
+### Databases
+
+- PostgreSQL
+- Redis
+- MongoDB
+
+### Infrastructure
+
+- Docker
+- Linux
+- Nginx
+- Gunicorn
+- Celery
+
+### Realtime
+
+- Django Channels
+- WebSocket
+- Redis Pub/Sub
+
+### Integrations
+
+- Payment Gateways
+- Banking APIs
+- OneSignal
+- TokenSpot
+- ETM API
+- Mapbox
+- Yandex Maps
+
+---
+
+## Current Focus
+
+- Backend Architecture
+- High-performance REST APIs
+- Financial Systems
+- Distributed Background Processing
+- Real-time Communication
+- Clean Architecture
+
+---
+
+## Contact
+
+📧 Email: ky1ychbekow06@gmail.com
+
+💻 GitHub: https://github.com/Sanix6
+
+🔗 LinkedIn: Coming soon...
