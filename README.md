@@ -1,19 +1,21 @@
-# Hi, I'm Sanzharbek 👋
+# Sanzharbek Kylychbekov
 
-## Python Backend Engineer
+Backend Engineer | Python • Django • Distributed Systems
 
-Backend engineer focused on building scalable, production-ready applications using Python and Django.
+Backend Engineer with commercial experience building production-ready backend systems using Python and Django.
 
-I enjoy designing backend architectures, developing REST APIs, integrating third-party services and solving complex business problems.
+I specialize in designing scalable REST APIs, integrating third-party services, developing real-time applications, and building reliable backend architectures for commercial products.
 
-My commercial experience includes:
+---
+
+## Domains
 
 - FinTech & Cryptocurrency Exchange
-- Taxi & Delivery Platforms
+- Transportation & Delivery Platforms
 - Airline Booking Systems
-- Payment Integrations
-- Real-time Applications
 - Enterprise HelpDesk Systems
+- Payment Infrastructure
+- Real-time Applications
 
 ---
 
@@ -35,26 +37,53 @@ My commercial experience includes:
 ### Infrastructure
 
 - Docker
+- Docker Compose
 - Linux
 - Nginx
 - Gunicorn
 - Celery
 
-### Realtime
+### Real-Time
 
 - Django Channels
 - WebSocket
 - Redis Pub/Sub
 
+### Architecture
+
+- REST API Design
+- Service Layer
+- Clean Architecture
+- Background Processing
+- Authentication & Authorization
+- Database Optimization
+
 ### Integrations
 
 - Payment Gateways
 - Banking APIs
-- OneSignal
 - TokenSpot
+- Sumsub
+- OneSignal
 - ETM API
 - Mapbox
 - Yandex Maps
+
+---
+
+## Featured Commercial Projects
+
+### WTP Exchange
+
+Enterprise cryptocurrency exchange platform with KYC, AML workflows, payment integrations, exchange operations, WebSocket communication and operator tools.
+
+### Taxi & Delivery Platform
+
+Real-time transportation platform with dispatch algorithms, driver tracking, geolocation services, payment processing and mobile APIs.
+
+### Airline Booking Platform
+
+Commercial airline booking platform supporting flight search, reservations, ticketing, payment processing and third-party airline integrations.
 
 ---
 
@@ -65,14 +94,16 @@ My commercial experience includes:
 - Financial Systems
 - Distributed Background Processing
 - Real-time Communication
-- Clean Architecture
+- Performance Optimization
 
 ---
 
 ## Contact
 
-📧 Email: ky1ychbekow06@gmail.com
+📧 Email: **ky1ychbekow06@gmail.com**
 
-💻 GitHub: https://github.com/Sanix6
+💻 GitHub: **github.com/Sanix6**
 
-🔗 LinkedIn: Coming soon...
+🌍 Location: Bishkek, Kyrgyzstan
+
+✈️ Open to Relocation & Remote Opportunities
